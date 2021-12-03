@@ -1,0 +1,27 @@
+{
+  "name": "root-font-size",
+  "version": "1.0.4",
+  "description": "Dynamic set font-size of html attribute on the web",
+  "keywords": [
+    "mobile",
+    "pc-type-page",
+    "vant-ui",
+    "rem"
+  ],
+  "maintainers": [
+    {
+      "name": "cwang",
+      "email": "18888351756@163.com",
+      "blog":"http://blog.deepsighting.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/CharleeWa"
+    }
+  ],
+  "main": "index.js",
+  "author": "cwang",
+  "license": "ISC"
+}
