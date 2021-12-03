@@ -1,6 +1,6 @@
 {
   "name": "root-font-size",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamic set font-size of html attribute on the web",
   "keywords": [
     "mobile",
@@ -12,13 +12,13 @@
     {
       "name": "cwang",
       "email": "18888351756@163.com",
-      "blog":"http://blog.deepsighting.com"
+      "blog": ""
     }
   ],
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/CharleeWa"
+      "url": "https://github.com/CharleeWa/root-font-size"
     }
   ],
   "main": "index.js",
